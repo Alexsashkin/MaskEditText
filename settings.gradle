@@ -1,0 +1,2 @@
+include ':app', ':mask_et'
+rootProject.name='MaskEditText'
